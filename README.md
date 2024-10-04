@@ -4,9 +4,9 @@
 
 ## Usage Notes: 
 1. To build, run "make" or "make build" (or compile main.c and sorting.c manually). make generates "main.out" as the executable. 
-2. The executable will be "main.out" if make was used. To run, there are two options: 
-	a. Run "./main.out" to use generate pseudorandom numbers in an array of size 1000. 
-	b. Run "./main.out [SIZE]" where [SIZE] is the size of the array to be generated. [SIZE] MUST be an integer!
+2. The executable will be "main.out" if make was used. To run, there are two options:   
+	a. Run "./main.out" to use generate pseudorandom numbers in an array of size 1000.   
+	b. Run "./main.out [SIZE]" where [SIZE] is the size of the array to be generated. [SIZE] MUST be an integer!  
 
 ## Important Notes: 
 1. For simplicity's sake, this program only generates pseudorandom numbers between 1 AND 10000!
